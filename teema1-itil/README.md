@@ -16,3 +16,7 @@ ITIL on väga praktiline raamistik. Sain aru, et IT ei ole ainult tehnika – t�
 ## Näide
 
 Kui ettevõttes läheb server katki, siis ilma ITILita võib igaüks tegutseda omamoodi. ITIL-iga on kirjeldatud, kes teavitab, kes parandab, kes suhtleb klientidega. Minu koolis on IT-tugi – nemad kasutavad sarnast loogikat (esmalt ticketsüsteem, siis lahendamine).
+
+## Minu märkus
+
+ITIL on kasulik ka väikeettevõtetes, mitte ainult suurkorporatsioonides.
